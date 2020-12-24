@@ -1,0 +1,16 @@
+PODS:
+  - TGAppLaunch (0.1.0)
+
+DEPENDENCIES:
+  - TGAppLaunch (from `../`)
+
+EXTERNAL SOURCES:
+  TGAppLaunch:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TGAppLaunch: 746218e579f162cc3e17bf780d27b2c43eb253fa
+
+PODFILE CHECKSUM: 52ba537b2e89d2e25254d975f70626d846645427
+
+COCOAPODS: 1.9.3

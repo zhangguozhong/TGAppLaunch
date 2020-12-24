@@ -1,0 +1,6 @@
+framework module TGAppLaunch {
+  umbrella header "TGAppLaunch-umbrella.h"
+
+  export *
+  module * { export * }
+}
